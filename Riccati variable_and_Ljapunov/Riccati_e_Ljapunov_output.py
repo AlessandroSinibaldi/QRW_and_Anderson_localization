@@ -17,7 +17,7 @@ seed = 1234
 
 chi = 0
 
-control = 3 #funzioni differenti: 0. calcolare lambda con diverso disordine, 1. distribuzione di Riccati,
+control = 3 #funzioni differenti: 0. calcolare lambda con diverso disordine, 1. distribuzione di Riccati (file non caricato nel repository perché troppo pesante),
             #2. xi disordine completo, 3. lambda(z) disordine debole
 
 if(control == 0):
