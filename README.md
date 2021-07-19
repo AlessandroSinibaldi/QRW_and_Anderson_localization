@@ -1,2 +1,2 @@
 # QRW_and_Anderson_localization
-This repository contains brief codes written in Python, that are useful to study the properties of Quantum Random Walk and Anderson localization. 
+This repository contains codes written in Python with the purpose of studying Quantum Random Walk and Anderson localization. 
